@@ -28,6 +28,8 @@ class App extends React.Component {
     // axios 란?
     // YTS API : https://yts-proxy.now.sh/list_movies.json
     // JSX는 className으로 해줘야 안헷갈려함 -> 브라우저에서는 class로 변경됨
+    // gh-pages 알아보기
+    // predeploy를 먼저 실행하고 deploy 돌린다
   }
   render() {
     const {
