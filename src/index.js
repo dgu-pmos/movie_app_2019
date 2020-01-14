@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App/>, document.getElementById('root'));
 /*
 일반적으로 '<App />' 이것을 컴포넌트라고 부른다.
 component는 HTML을 반환하는 함수이다. 
